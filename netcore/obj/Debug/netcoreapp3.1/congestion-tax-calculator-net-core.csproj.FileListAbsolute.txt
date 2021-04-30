@@ -1,0 +1,13 @@
+C:\Users\r0p00ex\Downloads\congestion-tax-calculator-main\congestion-tax-calculator-main\netcore\bin\Debug\netcoreapp3.1\congestion-tax-calculator-net-core.deps.json
+C:\Users\r0p00ex\Downloads\congestion-tax-calculator-main\congestion-tax-calculator-main\netcore\bin\Debug\netcoreapp3.1\congestion-tax-calculator-net-core.dll
+C:\Users\r0p00ex\Downloads\congestion-tax-calculator-main\congestion-tax-calculator-main\netcore\bin\Debug\netcoreapp3.1\congestion-tax-calculator-net-core.pdb
+C:\Users\r0p00ex\Downloads\congestion-tax-calculator-main\congestion-tax-calculator-main\netcore\obj\Debug\netcoreapp3.1\congestion-tax-calculator-net-core.csprojAssemblyReference.cache
+C:\Users\r0p00ex\Downloads\congestion-tax-calculator-main\congestion-tax-calculator-main\netcore\obj\Debug\netcoreapp3.1\congestion-tax-calculator-net-core.AssemblyInfoInputs.cache
+C:\Users\r0p00ex\Downloads\congestion-tax-calculator-main\congestion-tax-calculator-main\netcore\obj\Debug\netcoreapp3.1\congestion-tax-calculator-net-core.AssemblyInfo.cs
+C:\Users\r0p00ex\Downloads\congestion-tax-calculator-main\congestion-tax-calculator-main\netcore\obj\Debug\netcoreapp3.1\congestion-tax-calculator-net-core.csproj.CoreCompileInputs.cache
+C:\Users\r0p00ex\Downloads\congestion-tax-calculator-main\congestion-tax-calculator-main\netcore\obj\Debug\netcoreapp3.1\congestion-tax-calculator-net-core.dll
+C:\Users\r0p00ex\Downloads\congestion-tax-calculator-main\congestion-tax-calculator-main\netcore\obj\Debug\netcoreapp3.1\congestion-tax-calculator-net-core.pdb
+C:\Users\r0p00ex\Downloads\congestion-tax-calculator-main\congestion-tax-calculator-main\netcore\bin\Debug\netcoreapp3.1\congestion-tax-calculator-net-core.exe
+C:\Users\r0p00ex\Downloads\congestion-tax-calculator-main\congestion-tax-calculator-main\netcore\bin\Debug\netcoreapp3.1\congestion-tax-calculator-net-core.runtimeconfig.json
+C:\Users\r0p00ex\Downloads\congestion-tax-calculator-main\congestion-tax-calculator-main\netcore\bin\Debug\netcoreapp3.1\congestion-tax-calculator-net-core.runtimeconfig.dev.json
+C:\Users\r0p00ex\Downloads\congestion-tax-calculator-main\congestion-tax-calculator-main\netcore\obj\Debug\netcoreapp3.1\congestion-tax-calculator-net-core.genruntimeconfig.cache
